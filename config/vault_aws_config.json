@@ -1,0 +1,6 @@
+{
+    "VAULT_URL" : "http://127.0.0.1:8200",
+    "ROLE_ID" : "c219485d-f8e0-e5fd-84b1-605c7b34deee",
+    "SECRET_ID" :"e54b8500-b6c4-58f5-fe32-5a891128bcc0",
+    "SECRET_PATH" :"secret/data/snow"
+}

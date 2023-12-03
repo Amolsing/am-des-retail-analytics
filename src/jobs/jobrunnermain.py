@@ -32,4 +32,4 @@ iam_client = aws_connector.aws_client_conn
 # Now you can use iam_client to perform IAM operations
 response = iam_client.list_groups()
 
-print("IAM groups:",response)
+print("IAM groups:", response)
